@@ -16,9 +16,9 @@ Gluco Vision is an innovative mobile application specifically designed to help p
 
 ## Our Team
 
-| **Name**                       | **Roles** | **University**                 | **Email**                 |
+| **Name**                       | **Roles** | **University**                 | **Email**                |
 |--------------------------------|-----------|--------------------------------|--------------------------|
-| Muhammad Iqbal Reza            | PM        | Universitas Komputer Indonesia | Iqbal@gmail.com          |
+| Muhammad Iqbal Reza            | PM        | Universitas Komputer Indonesia | iqbaldikareza@gmail.com  |
 | Dewa Tri Wijaya                | Dev       | Universitas Komputer Indonesia | dewatwc@gmail.com        |
 | Erwin Hafiz                    | Dev       | Universitas Komputer Indonesia | erwinhafizzxr@gmail.com  |
 
